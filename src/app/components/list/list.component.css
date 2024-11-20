@@ -1,0 +1,12 @@
+.circle {
+    width: 7px;
+    height: 7px;
+    background-color: var(--main-color);
+    border-radius: 50%;
+    bottom: 7px;
+    left: -15px;
+}
+
+.fs-list-data {
+    font-size: 10px;
+}

@@ -1,0 +1,111 @@
+.custom-margin {
+    margin-left: 80px;
+}
+
+.custom-height {
+    height: calc(100vh - 70px);
+}
+
+.card-height {
+    height: 120px;
+}
+
+.card-margin {
+    margin-top: -6px;
+    margin-bottom: 10px;
+    font-size: 14px;
+}
+
+.w-fit {
+    width: fit-content;
+}
+
+
+.width {
+    width: 220px;
+}
+
+.font-size {
+    font-size: 12px;
+}
+
+.ok {
+    background-color: rgb(0, 0, 0);
+}
+
+.active {
+    background-color: var(--main-color);
+    color: white;
+}
+
+.option-fs {
+    font-size: 14px;
+}
+
+.chart-dimentions {
+    width: 700px;
+}
+
+.display {
+    display: none;
+}
+
+.circle {
+    width: 7px;
+    height: 7px;
+    background-color: var(--main-color);
+    border-radius: 50%;
+    bottom: 7px;
+    left: -15px;
+}
+
+.fs-list-data {
+    font-size: 10px;
+}
+
+.list-height {
+    height: 400px;
+    overflow-y: scroll;
+}
+
+.list-height::-webkit-scrollbar {
+    background-color: aliceblue;
+    width: 6px;
+
+    border-radius: 10px;
+}
+
+.list-height::-webkit-scrollbar-thumb {
+    background-color: var(--main-color);
+    border-radius: 10px;
+}
+
+.fs-progress {
+    font-size: 12px;
+}
+
+.station-fs {
+    font-size: 13px;
+
+}
+
+.progress {
+    width: 90%;
+    height: 4px;
+    background-color: #ff6f4371;
+    margin-top: 10px;
+}
+
+.last {
+    background-color: #3D5161;
+}
+
+.progress-bar1 {
+    width: 100px;
+    background-color: #ff6f43 !important;
+}
+
+.progress-bar2 {
+    width: 150px;
+    background-color: #ff6f43 !important;
+}

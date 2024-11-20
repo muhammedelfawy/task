@@ -1,0 +1,43 @@
+/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+
+:root {
+    --main-color: #FF7F5C;
+    --body-color: #F9F5F3;
+    --text-color: #3D5161;
+    --card-bg-color: #F4DBD4;
+}
+
+.bg-card-color {
+    background-color: var(--card-bg-color);
+}
+
+.text-main {
+    color: var(--main-color);
+}
+
+.bg-main {
+    background-color: var(--main-color);
+}
+
+.bg-section {
+    background-color: var(--body-color);
+}
+
+.text-color {
+    color: var(--text-color);
+}
+
+.bg-color {
+    background-color: var(--text-color);
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}

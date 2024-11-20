@@ -1,0 +1,63 @@
+.custom-margin {
+    margin-left: 80px;
+}
+
+.custom-height {
+    height: 80px;
+}
+
+.text {
+    font-size: 10px;
+    margin-left: 6px;
+}
+
+img {
+    width: 30px;
+    margin-right: 17px;
+}
+
+.fs-custom {
+    font-size: 13px;
+}
+
+.custom-width {
+    width: 230px;
+}
+
+.img-width {
+    width: 25px;
+}
+
+.element4 span,
+.element5 span {
+    font-size: 12px;
+}
+
+.custom-border {
+    border-bottom: 1px solid black;
+}
+
+
+
+.sign-arrow {
+    left: -25px;
+    border-style: solid;
+    border-color: transparent transparent transparent var(--main-color);
+    border-width: 7px;
+}
+
+.sign-square {
+    left: -25px;
+    width: 10px;
+    height: 10px;
+    background-color: var(--main-color);
+}
+
+.sign-circle {
+    left: -15px;
+    bottom: 5px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background-color: var(--main-color);
+}
